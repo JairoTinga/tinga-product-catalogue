@@ -1,14 +1,14 @@
 [
     {
-         "Name": "3090 TI",
+         "Name": "Nvidia_3090_TI",
          "Description": "NVIDIA GPU",
-         "Price": "1000",
+         "Price": "1,349",
          "DateAdded": "Feb 5 2024" 
      },
      {
-        "Name": "Ryzen 5",
+        "Name": "Ryzen_5_5600X",
         "Description": "AMD CPU",
-        "Price": "500",
+        "Price": "158",
         "DateAdded": "Feb 6 2024"
      }
  ]
