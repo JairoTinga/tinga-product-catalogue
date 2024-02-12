@@ -1,8 +1,15 @@
 [
-   {
-        "product_name": "test0",
-        "Description": "test",
-        "Price": "100",
-        "DateAdded": "Feb 5 2024" 
-    }
-]
+    {
+         "Name": "3090 TI",
+         "Description": "NVIDIA GPU",
+         "Price": "1000",
+         "DateAdded": "Feb 5 2024" 
+     },
+     {
+        "Name": "Ryzen 5",
+        "Description": "AMD CPU",
+        "Price": "500",
+        "DateAdded": "Feb 6 2024"
+     }
+ ]
+ 
